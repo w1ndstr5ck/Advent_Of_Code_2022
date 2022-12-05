@@ -5,8 +5,8 @@ Wyatt Lindquist's attempt at the 2022 advent of code competition.
 Day 1: 2 Stars
 Day 2: 2 Stars
 Day 3: 2 Stars
-Day 4:
-Day 5:
+Day 4: 2 Stars
+Day 5: 2 Stars
 Day 6:
 Day 7:
 Day 8:
