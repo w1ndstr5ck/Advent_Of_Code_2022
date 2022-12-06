@@ -1,0 +1,15 @@
+import numpy as np
+
+with open("E:\Code\Coding\Advent of Code 2022\Day_6_Input.txt", "r") as data:
+    data = data.readline()
+
+def find_marker(datastream, length_to_find):
+    i = length_to_find
+    while i < len(datastream):
+        check_vector = datastream[i-length_to_find: i]
+        if len(set(check_vector)) == len(check_vector):
+            return i
+        else:
+            i += 1
+        
+print(find_marker(datastream=data, length_to_find=4))
