@@ -9,7 +9,7 @@ Day 4: 2 Stars
 Day 5: 2 Stars
 Day 6: 2 Stars
 Day 7: 2 Stars
-Day 8: 1 Star
+Day 8: 2 Stars
 Day 9:
 Day 10:
 Day 11:
